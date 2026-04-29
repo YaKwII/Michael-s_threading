@@ -1,4 +1,7 @@
-# Process ID | Burst Time (seconds)
+# Operating Systems Project 2 — processes.txt
+# Format: <PID>  <BurstTime (seconds)>
+# Lines beginning with '#' are ignored.
+
 1 2
 2 3
 3 1
